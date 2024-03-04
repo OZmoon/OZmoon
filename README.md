@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=OZmoon" alt="profile view"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/503482722014986240)](https://discord.com/users/503482722014986240)
+[![Discord Presence](https://lanyard.cnrad.dev/api/503482722014986240)](https://discord.com/users/758583024278700042)
 
 <h3 align="left">Mostly Used</h3>
 
